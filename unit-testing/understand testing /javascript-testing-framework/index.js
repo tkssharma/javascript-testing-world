@@ -9,7 +9,7 @@ test('sum adds numbers', () => {
 test('subtract subtracts numbers', () => {
   const result = subtract(7, 3)
   const expected = 4
-  expect(result).toBe(expected)
+  expect(result).toEqual(expected)
 })
 
 function test(title, callback) {
@@ -24,7 +24,7 @@ function test(title, callback) {
 
 function expect(actual) {
   return {
-    toBe(expected) {
+    toEqual(expected) {
       if (actual !== expected) {
         throw new Error(`${actual} is not equal to ${expected}`)
       }

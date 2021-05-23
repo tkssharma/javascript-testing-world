@@ -1,0 +1,14 @@
+{
+  "srcDir": "src",
+  "srcFiles": [
+    "**/*.?(m)js"
+  ],
+  "specDir": "spec",
+  "specFiles": [
+    "**/*[Ss]pec.?(m)js"
+  ],
+  "helpers": [
+    "helpers/asyncAwait.js"
+  ],
+  "random": true
+}
