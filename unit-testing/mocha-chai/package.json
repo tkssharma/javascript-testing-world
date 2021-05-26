@@ -3,16 +3,20 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "nyc": "nyc mocha",
+    "cover": "istanbul cover node_modules/mocha/bin/_mocha",
+    "code-coverage": "istanbul cover node_modules/mocha/bin/_mocha && istanbul check-coverage"
   },
   "author": "",
   "license": "Unlicense",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "istanbul": "^0.4.5",
+    "nyc": "^15.1.0"
   }
 }

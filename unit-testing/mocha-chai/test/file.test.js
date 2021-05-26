@@ -2,7 +2,7 @@ var expect = require('chai').expect;
 const Todo = require('../src/lib/todos');
 const fs = require('fs');
 
-describe.only('save file : happy Path', () => {
+describe('save file : happy Path', () => {
 	let todo;
 	beforeEach(() => {
 		todo = new Todo();
