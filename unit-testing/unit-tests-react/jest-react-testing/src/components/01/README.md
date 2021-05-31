@@ -1,0 +1,7 @@
+- getByText(): find the element by its textContent value
+- getByRole(): by its role attribute value
+- getByLabelText(): by its label attribute value
+- getByPlaceholderText(): by its placeholder attribute value
+- getByAltText(): by its alt attribute value
+- getByDisplayValue(): by its value attribute, usually for <input> elements
+- getByTitle(): by its title attribute value
