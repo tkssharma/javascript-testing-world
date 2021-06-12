@@ -1,9 +1,9 @@
-## All about javascript testing using different Libraries 
+## 🥼🧬🧪🔬🧫🦠  All about javascript testing using different Libraries 🥼🧬🧪🔬🧫🦠 
 
-## Testing in javascript 
+## 🥼🧬🧪🔬🧫🦠  Testing in javascript 
 - https://www.youtube.com/watch?v=G2Apg6Pb1BY&list=PLIGDNOJWiL1-IVcu_hvsIPQJRZ9oOwWRf 
 
-### What we are covering in this playlist 
+### What we are covering in this playlist 🥼🧬🧪🔬🧫🦠 
 
 - This covers all about testing in javascript
 - testing using simple assertion librray chai, mocha.
