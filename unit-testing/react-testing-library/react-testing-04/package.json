@@ -1,0 +1,27 @@
+{
+  "name": "react-testing-library-form-test",
+  "version": "1.0.0",
+  "description": "✅ A demonstration of using Enzyme to test React components. Uses additional matchers from jest-enzyme and styled-components.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.4.2",
+    "@testing-library/react": "9.1.4",
+    "formik": "1.5.8",
+    "formik-material-ui": "0.0.22",
+    "jest-enzyme": "^6.0.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "^1.1.4",
+    "react-test-renderer": "latest",
+    "yup": "0.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

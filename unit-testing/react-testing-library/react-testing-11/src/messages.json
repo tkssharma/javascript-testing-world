@@ -1,0 +1,16 @@
+{
+  "messages": [
+    {
+      "text": "I love pepperoni pizza 🍕",
+      "sentBy": "Billy"
+    },
+    {
+      "text": "Hello World! 🌏",
+      "sentBy": "Chris"
+    },
+    {
+      "text": "Hi there 🙋 how are you?",
+      "sentBy": "Courtney"
+    }
+  ]
+}
